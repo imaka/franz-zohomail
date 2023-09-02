@@ -1,1 +1,2 @@
-# franz-zohomail
+# Zoho Mail for Franz
+Unofficial recipe
